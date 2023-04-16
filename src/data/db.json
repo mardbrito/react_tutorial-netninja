@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mollis lacinia nisl, ac rutrum est laoreet nec. Sed sollicitudin accumsan lacus, et luctus enim facilisis sed. Phasellus at pretium nulla, at posuere felis. Sed ultrices felis in pretium porta. Proin eros nisi, porta ac aliquam eu, placerat sed tortor. Maecenas consectetur dolor vel pretium convallis. In at luctus tortor. Quisque ut turpis nec erat laoreet accumsan. Pellentesque in tortor feugiat lacus lacinia vulputate non vitae sem. Fusce lacinia et justo non finibus. Curabitur at lacinia dui. Sed a magna a quam accumsan sodales. Nunc nisl mauris, facilisis vitae leo ac, elementum faucibus eros. Nam pulvinar leo ut orci luctus rhoncus quis vel urna. Donec id purus magna.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Creating a bloig",
+      "body": "Vivamus lacus mauris, congue non maximus sit amet, venenatis et metus. Proin dui lacus, dapibus non rutrum quis, dapibus eleifend mauris. Donec lacinia eget lacus nec consectetur. Curabitur blandit faucibus lorem, porta tristique nibh euismod vel. Suspendisse elementum fringilla dolor, quis tincidunt arcu pellentesque nec. Ut aliquet bibendum odio at aliquet. Proin id nunc fermentum, interdum metus vulputate, lacinia ipsum. In vitae dictum augue.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
